@@ -1,2 +1,5 @@
-# Luogu-neijuan-checker
-洛谷内卷监测器！
+# 洛谷内卷checker!
+- 能帮助你**实时**查看同伴的做题记录，可调频率，被检测人等。
+- 使用方法：f12+控制台或油猴插件。
+- code见下方
+# by jasonshen_
