@@ -1,13 +1,3 @@
-// ==UserScript==
-// @name         shaber
-// @namespace    http://tampermonkey.net/
-// @version      0.1
-// @description  shaber
-// @author       jasonshen_
-// @match        https://www.luogu.com.cn/problem/P1000
-// @icon         https://cdn.luogu.com.cn/upload/usericon/789654.png
-// @grant        none
-// ==/UserScript==
 
 (function () {
     'use strict';
